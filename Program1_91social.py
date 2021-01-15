@@ -6,7 +6,7 @@
 
 print("Program 1")
 count = 0
-with open("E:\Telly.txt") as f: 
+with open("Telly.txt") as f: 
     Lines = f.readlines() #storing in List
     for line in Lines: 
         count += 1
