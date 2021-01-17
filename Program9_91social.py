@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[5]:
+
 
 
 import os
@@ -15,7 +15,7 @@ else:
     print(output)
 
 
-# In[15]:
+
 
 
 import subprocess
