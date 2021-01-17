@@ -17,7 +17,7 @@ def get_logger(name):
 # In[3]:
 
 
-with open('C:\\Users\\ANMOL S\\Test_log.log') as f:
+with open('Test_log.log') as f:
     lines = f.readlines()
 for line in lines:
     logger = get_logger('test')
